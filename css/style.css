@@ -30,3 +30,7 @@ background-color: #F2F2EC;
     display: flex;
     flex-direction: row;
 }
+.image {
+    padding: 30px;
+    
+}
